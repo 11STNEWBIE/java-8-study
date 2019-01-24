@@ -10,3 +10,5 @@
 #### Study Meeting Logs
 * [Meeting Log 1](https://github.com/11STNEWBIE/java-8-study/blob/master/study-meeting-log/meeting-log-1(none).md)
 * [Meeting Log 2](https://github.com/11STNEWBIE/java-8-study/blob/master/study-meeting-log/meeting-log-2(chapater3).md)
+* [Meeting Log 3](https://github.com/11STNEWBIE/java-8-study/blob/master/study-meeting-log/meeting-log-3(chapter4%2C5).md)
+
