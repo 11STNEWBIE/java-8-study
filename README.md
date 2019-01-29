@@ -6,6 +6,7 @@
 * [chapter 1 - 자바 8을 눈여겨봐야 하는 이유](https://github.com/11STNEWBIE/java-8-study/blob/master/Java8Action/chapter1/1%EC%9E%A5.md)
 * [chapter 4 - 스트림 소개](https://github.com/11STNEWBIE/java-8-study/blob/master/Java8Action/chapter4/4%EC%9E%A5.md)
 * [chapter 5 - 스트림 활용](https://github.com/11STNEWBIE/java-8-study/blob/master/Java8Action/chapter5/5%EC%9E%A5.md)
+* [chapter 7 - 병렬 데이터 처리와 성능](https://github.com/11STNEWBIE/java-8-study/blob/master/Java8Action/chapter7/ch7.md)
 ---
 #### Study Meeting Logs
 * [Meeting Log 1](https://github.com/11STNEWBIE/java-8-study/blob/master/study-meeting-log/meeting-log-1(none).md)
