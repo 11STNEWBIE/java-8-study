@@ -7,6 +7,7 @@
 * [chapter 3 - 람다 표현식](https://github.com/11STNEWBIE/java-8-study/blob/master/Java8Action/chapter3/3%EC%9E%A5.md)
 * [chapter 4 - 스트림 소개](https://github.com/11STNEWBIE/java-8-study/blob/master/Java8Action/chapter4/4%EC%9E%A5.md)
 * [chapter 5 - 스트림 활용](https://github.com/11STNEWBIE/java-8-study/blob/master/Java8Action/chapter5/5%EC%9E%A5.md)
+* [chapter 6 - 스트림으로 데이터 수집](https://github.com/11STNEWBIE/java-8-study/blob/master/Java8Action/chapter6/chapter6.md)
 * [chapter 7 - 병렬 데이터 처리와 성능](https://github.com/11STNEWBIE/java-8-study/blob/master/Java8Action/chapter7/ch7.md)
 ---
 #### Study Meeting Logs
