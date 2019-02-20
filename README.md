@@ -9,6 +9,9 @@
 * [chapter 5 - 스트림 활용](https://github.com/11STNEWBIE/java-8-study/blob/master/Java8Action/chapter5/5%EC%9E%A5.md)
 * [chapter 6 - 스트림으로 데이터 수집](https://github.com/11STNEWBIE/java-8-study/blob/master/Java8Action/chapter6/chapter6.md)
 * [chapter 7 - 병렬 데이터 처리와 성능](https://github.com/11STNEWBIE/java-8-study/blob/master/Java8Action/chapter7/ch7.md)
+* [chapter 8 - 리팩토링, 테스트, 디버깅](https://github.com/11STNEWBIE/java-8-study/blob/master/Java8Action/chapter8/ch8.md)
+* [chapter 9 - 디폴트 메서드](https://github.com/11STNEWBIE/java-8-study/blob/master/Java8Action/chapter9/ch9.md)
+* [chapter 9 - Optional](https://github.com/11STNEWBIE/java-8-study/blob/master/Java8Action/chapter10/java8-study-optional.md)
 ---
 #### Study Meeting Logs
 * [Meeting Log 1](https://github.com/11STNEWBIE/java-8-study/blob/master/study-meeting-log/meeting-log-1(none).md)
